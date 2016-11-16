@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 2863712841
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1625dbf446cd513290e294d22b901a5c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9dea23ffc7e96552740e12d1ee5309d8
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/UI/Texture/SkillIcon/110667301208.png
+- Assets/UI/Texture/SkillIcon/110667300884.png
+- Assets/UI/Texture/SkillIcon/110667301206.png
+- Assets/UI/Texture/SkillIcon/110667300882.png
+- Assets/UI/Texture/SkillIcon/110667301203.png
+- Assets/UI/Texture/SkillIcon/110667300886.png
+- Assets/UI/Texture/SkillIcon/110667300888.png
+- Assets/UI/Texture/SkillIcon/110667301201.png
+Dependencies: []

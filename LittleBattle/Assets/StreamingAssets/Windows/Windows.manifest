@@ -1,0 +1,41 @@
+ManifestFileVersion: 0
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: ui/texture/common/white32x32
+      Dependencies: {}
+    Info_1:
+      Name: nitobundle/backpackpanel
+      Dependencies:
+        Dependency_0: ui/texture/common/white32x32
+    Info_2:
+      Name: nitobundle/ball
+      Dependencies: {}
+    Info_3:
+      Name: nitobundle/cube
+      Dependencies: {}
+    Info_4:
+      Name: ui/texture/login/blackbg
+      Dependencies: {}
+    Info_5:
+      Name: ui/texture/login/circle_account
+      Dependencies: {}
+    Info_6:
+      Name: ui/texture/login/password
+      Dependencies: {}
+    Info_7:
+      Name: nitobundle/loginpanel
+      Dependencies:
+        Dependency_0: ui/texture/login/blackbg
+        Dependency_1: ui/texture/login/circle_account
+        Dependency_2: ui/texture/login/password
+    Info_8:
+      Name: nitobundle/normalgamepanel
+      Dependencies:
+        Dependency_0: ui/texture/common/white32x32
+    Info_9:
+      Name: nitobundle/registerpanel
+      Dependencies:
+        Dependency_0: ui/texture/login/blackbg
+        Dependency_1: ui/texture/login/circle_account
+        Dependency_2: ui/texture/login/password

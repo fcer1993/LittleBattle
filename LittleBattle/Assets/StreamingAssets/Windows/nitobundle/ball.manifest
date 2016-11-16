@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 3543249296
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4f702962ae7274532b0c08859907c5c2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a7ae56b3280202e893b0bab63c1b20a6
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: deb5a1b6e8170fe4588ad096faad7821, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/NiToBundle/Ball.prefab
+Dependencies: []

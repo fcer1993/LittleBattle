@@ -1,0 +1,47 @@
+ManifestFileVersion: 0
+CRC: 1219843092
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 677c8adb5e48144c191c759f23803ddb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ed9ab005b4343ff5dde6038dd0de9a9e
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 27b094a111473ab408ebc8345272d3e7, type: 3}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 575553740, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/UI/Texture/Login/circle_quit.png
+- Assets/NiToBundle/LoginPanel.prefab
+- Assets/UI/Texture/Login/register.png
+Dependencies:
+- C:/Users/isWxiang/Desktop/LittleBattle/Assets/StreamingAssets/Windows/ui/texture/login/blackbg
+- C:/Users/isWxiang/Desktop/LittleBattle/Assets/StreamingAssets/Windows/ui/texture/login/circle_account
+- C:/Users/isWxiang/Desktop/LittleBattle/Assets/StreamingAssets/Windows/ui/texture/login/password

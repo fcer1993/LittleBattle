@@ -1,0 +1,11 @@
+/LittleBattle/Assembly-CSharp.csproj
+/LittleBattle/Assembly-CSharp-Editor.csproj
+/LittleBattle/Assembly-CSharp-firstpass.csproj
+/LittleBattle/LittleBattle.CSharp.csproj
+/LittleBattle/LittleBattle.CSharp.Editor.csproj
+/LittleBattle/LittleBattle.sln
+/LittleBattle/.vs
+/LittleBattle/Library
+/LittleBattle/obj
+/LittleBattle/ProjectSettings
+*.meta

@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 3137063507
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d34237b46bde7b755cbf22c246bd4e2f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9dea23ffc7e96552740e12d1ee5309d8
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/UI/Texture/Common/White32X32.png
+Dependencies: []

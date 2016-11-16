@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 2882574453
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 133f0010a4d7ff5418bd8b81039029db
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 711839a609c1c94fca00168090d13149
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4afdc0004e121154bbb0a48d17ec2852, type: 3}
+- Class: 114
+  Script: {fileID: -2095666955, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/NiToBundle/BackpackPanel.prefab
+Dependencies:
+- C:/Users/isWxiang/Desktop/LittleBattle/Assets/StreamingAssets/Windows/ui/texture/common/white32x32

@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 1090373939
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d51bf8e2b762f5ce0abd6dc9c5f7609f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ad21adb22dfbc7adec7f578e6caa9b63
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+Assets:
+- Assets/NiToBundle/Cube.prefab
+Dependencies: []
